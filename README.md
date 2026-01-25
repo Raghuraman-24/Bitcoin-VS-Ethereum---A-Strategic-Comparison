@@ -53,20 +53,21 @@ Insights & ESG-Oriented Recommendations
 ### Bitcoin
 | Dataset | Source | Size | Notes |
 |------|------|------|------|
-| Historical Prices (2021–2025) | Investing.com | 1,416 × 7 | Clean daily OHLC & volume |
-| Historical Prices (2013–2021) | Kaggle | 2,991 × 10 | Timestamp normalized |
-| Market Capitalization | CoinGecko | 4,405 × 4 | One missing value handled |
-| Difficulty Index | Blockchain Data | 800k+ × 13 | Aggregated to daily |
-| Energy Consumption | Digiconomist | 3,021 × 3 | Minimum TWh/year used |
+| Historical Prices (2021–2025) | [Investing.com](https://www.investing.com/crypto/bitcoin/historical-data) | 1,416 × 7 | Clean daily OHLC & volume |
+| Historical Prices (2013–2021) | [Kaggle – Rajkumar](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) | 2,991 × 10 | Timestamp normalized |
+| Market Capitalization | [CoinGecko](https://www.coingecko.com/en/coins/bitcoin) | 4,405 × 4 | One missing value handled |
+| Difficulty Index | [Gigasheet – Blockchain Data](https://gigasheet.com/sample-data/bitcoin-blockchain-historical-data) | 800k+ × 13 | Aggregated to daily |
+| Energy Consumption | [Digiconomist](https://digiconomist.net/bitcoin-energy-consumption) | 3,021 × 3 | Minimum TWh/year used |
 
 ### Ethereum
 | Dataset | Source | Size | Notes |
 |------|------|------|------|
-| Historical Prices (2021–2025) | Investing.com | 1,416 × 7 | Clean daily OHLC & volume |
-| Historical Prices (2013–2021) | Kaggle | 2,160 × 10 | Timestamp normalized |
-| Market Capitalization | CoinGecko | 3,575 × 4 | One missing value handled |
-| Difficulty Index | Etherscan | 3,589 × 3 | Daily difficulty values |
-| Energy Consumption | Digiconomist | 2,918 × 3 | Post-Merge energy drop visible |
+| Historical Prices (2021–2025) | [Investing.com](https://www.investing.com/crypto/ethereum/historical-data) | 1,416 × 7 | Clean daily OHLC & volume |
+| Historical Prices (2013–2021) | [Kaggle – Rajkumar](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) | 2,160 × 10 | Timestamp normalized |
+| Market Capitalization | [CoinGecko](https://www.coingecko.com/en/coins/ethereum) | 3,575 × 4 | One missing value handled |
+| Difficulty Index | [Etherscan](https://etherscan.io/chart/difficulty) | 3,589 × 3 | Daily difficulty values |
+| Energy Consumption | [Digiconomist](https://digiconomist.net/ethereum-energy-consumption) | 2,918 × 3 | Post-Merge energy drop visible |
+
 
 
 ---
